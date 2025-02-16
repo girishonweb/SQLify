@@ -1,1 +1,7 @@
- 
+python3-dev
+build-essential
+python3-distutils
+cmake
+swig
+libopenblas-dev
+libomp-dev
